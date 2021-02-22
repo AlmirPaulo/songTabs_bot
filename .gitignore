@@ -1,2 +1,4 @@
 note_*
 .env
+*.out
+.vscode
