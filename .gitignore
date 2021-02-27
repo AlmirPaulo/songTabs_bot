@@ -2,3 +2,4 @@ note_*
 .env
 *.out
 .vscode
+*pycache*

@@ -1,6 +1,6 @@
 # Software: songTabs_bot
 # Description: A Telegram bot that give guitar tabs to songs.
-# Page Info: https://github.com/AlmirPaulo/songTabs_bot
+# Info Page: https://github.com/AlmirPaulo/songTabs_bot
 
 # Author: Almir Paulo
 # Github: https://github.com/AlmirPaulo/
